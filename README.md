@@ -6,7 +6,6 @@
 I'm an Electrical and Computer Engineering undergraduate at Alexandria University, with a keen focus on Data Analysis. Passionate about turning data into actionable insights, I'm continuously learning and applying new skills to real-world projects.
 
 ## 🏗️ My Projects
-Stay tuned for exciting projects—updates coming soon!
 ⏳ Loading... ⏳
 
 
