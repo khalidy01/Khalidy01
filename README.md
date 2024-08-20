@@ -13,7 +13,7 @@ Stay tuned for exciting projects—updates coming soon!
 
 ## 📞 Contact Details
 - E-mail: khalidomr1@outlook.com
-- GitHub: [Your GitHub Profile]
+- GitHub: [Khalid Omar](https://github.com/khalidy01)
 
 **⭐️ Explore my repositories to discover the depth of my work and expertise!**
 
