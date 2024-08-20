@@ -17,11 +17,6 @@ Stay tuned for exciting projects—updates coming soon!
 
 **⭐️ Explore my repositories to discover the depth of my work and expertise!**
 
-### <p align="center">Visitor Counter<p>
-
-<p align="center">
-  <img src="Bottom.svg" alt="Github Stats" />
-</p>
 
 <!--
 **khalidy01/khalidy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
