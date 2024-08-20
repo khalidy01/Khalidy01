@@ -6,6 +6,8 @@
 I'm an Electrical and Computer Engineering undergraduate at Alexandria University, with a keen focus on Data Analysis. Passionate about turning data into actionable insights, I'm continuously learning and applying new skills to real-world projects.
 
 ## 🏗️ My Projects
+[1-DataAnalysisProjects/1-Mobile Phone Pricing Mode](https://github.com/khalidy01/portfolioProject/tree/main/DataAnalysisProjects/1-Mobile%20Phone%20Pricing%20Mode)
+
 ⏳ Loading... ⏳
 
 
